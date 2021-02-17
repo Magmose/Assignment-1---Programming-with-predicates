@@ -1,1 +1,4 @@
-# Assignment-1_Programming_with_predicates
+# Math
+
+MMMR - Magnus Klitmose, Mathias Kristensen, Morten Feldt, Rasmus Jacobsen 
+
