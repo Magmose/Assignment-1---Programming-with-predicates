@@ -11,7 +11,7 @@
   
 ### The program  
 The program is a simple student calendar.  
-The program contains number of students (student), classrooms (room), electives (class), teachers (teacher), and week numbers (week).  
+The program contains a number of students (student), classrooms (room), electives (class), teachers (teacher), and week numbers (week).  
   
 
 **The folowing functions can be used in the program:** 
