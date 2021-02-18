@@ -12,6 +12,7 @@
 ### The program  
 The program is a simple student calendar.  
 The program contains a number of students (student), classrooms (room), electives (class), teachers (teacher), and week numbers (week).  
+The .pl file for this project can be found [here](https://github.com/Magmose/Math-MMMR/blob/main/Math_Assigment_1/Assignment_1.pl).  
   
 
 **The folowing functions can be used in the program:**  
@@ -27,6 +28,7 @@ Week = 5 ;
 Week = 7 ;
 ```
   
+*(use space in the SWI-Prolog Windows tool to get all weeks)*  
 
 ### classInWeek(Week, Room, Class)  
 This could be used to find out which weeks a certian class will be in a certain room:  
@@ -38,7 +40,6 @@ Week = 3 ;
 Week = 5 ;
 Week = 7
 ```  
-*(use space in the SWI-Prolog Windows tool to get all weeks)*  
 
 ### teacherAtWork(Week, Teacher)
 Find out is a teacher should be at work a certian week or which week a teacher should work:
@@ -68,7 +69,7 @@ Student = magnus.
 ```
 
 ## Running the program
-The program can be run by cloning the [Assignment_1.pl](https://github.com/Magmose/Math-MMMR/blob/main/Math_Assigment_1/Assignment_1.pl) file. and run it in SWI-Prolog.  
+The program can be run by cloning the [Assignment_1.pl](https://github.com/Magmose/Math-MMMR/blob/main/Math_Assigment_1/Assignment_1.pl) file and run it in SWI-Prolog.  
 (On Windows: Open SWI-prolog and click "File" -> "Consult...", find the file, type in commands).  
 (On Mac: ?).  
 
