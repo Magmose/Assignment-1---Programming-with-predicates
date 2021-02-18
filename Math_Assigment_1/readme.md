@@ -15,11 +15,20 @@ The program contains number of students (student), classrooms (room), electives 
   
 
 **The folowing functions can be used in the program:** 
+Small examples are given to each function. but some functions can be used differently as well.  
+  
+#### studentsInRoom(Student, Room, Week)  
+Find out if a student is in a room a given week:  
+```
+?- studentsInRoom(rasmus, 200, Week).
+Week = 1 ;
+Week = 3 ;
+Week = 5 ;
+Week = 7 ;
+```
+  
 
-studentsInRoom(Student, Room,Week)
-
-
-##### *classInWeek(Week, Room, Class)*  
+#### classInWeek(Week, Room, Class)  
 This could be used to find out which weeks a certian class will be in a certain room:  
 
 ```
@@ -31,7 +40,7 @@ Week = 7
 ```  
 *(use space in the SWI-Prolog Windows tool to get all weeks)*  
 
-##### teacherAtWork(Week, Teacher)
+#### teacherAtWork(Week, Teacher)
 Find out is a teacher should be at work a certian week or which week a teacher should work:
 ```
 ?- teacherAtWork(1,martin)
@@ -44,7 +53,7 @@ Week = 4 ;
 Week = 6 ;
 ``` 
 
-##### studentHasTeacher(Teacher, Student)  
+#### studentHasTeacher(Teacher, Student)  
 Find out what teacher a student has or wise versa 
 ```
 ?- studentHasTeacher(Teacher, bob).
