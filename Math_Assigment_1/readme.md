@@ -1,13 +1,12 @@
 # Assignment_1 - Programming with predicates  
 
-## Student calendar  
-
 **Group members:**
 - *Morten Feldt*  
 - *Mathias Kristensen*  
 - *Magnus Klitmose*   
 - *Rasmus Lynge*
-
+  
+## Student calendar  
   
 ### The program  
 The program is a simple student calendar.  
