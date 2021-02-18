@@ -14,7 +14,7 @@ The program is a simple student calendar.
 The program contains a number of students (student), classrooms (room), electives (class), teachers (teacher), and week numbers (week).  
   
 
-**The folowing functions can be used in the program:** 
+**The folowing functions can be used in the program:**  
 Small examples are given to each function. but some functions can be used differently as well.  
   
 #### studentsInRoom(Student, Room, Week)  
